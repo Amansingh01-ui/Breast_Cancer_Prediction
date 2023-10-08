@@ -17,6 +17,6 @@ Breast Cancer Prediction is a classification task aimed at predicting the diagno
 6. Compactness: Computed as the square of the perimeter divided by the area minus 1.0.
 7. Concavity: Describes the severity of concave portions of the nucleus contour.
 8. Concave points: Represents the number of concave portions of the nucleus contour.
-8. Symmetry: Measures the symmetry of the nucleus.
-9. Fractal dimension: This feature approximates the "coastline" of the nucleus, using the concept of fractal geometry.
-10. These features provide quantitative measurements that can be used to assess the characteristics of cell nuclei and aid in distinguishing between malignant and benign breast masses. By training a machine learning model on this dataset, it is possible to develop a predictive model that can assist in the early detection and diagnosis of breast cancer.
+9. Symmetry: Measures the symmetry of the nucleus.
+10. Fractal dimension: This feature approximates the "coastline" of the nucleus, using the concept of fractal geometry.
+These features provide quantitative measurements that can be used to assess the characteristics of cell nuclei and aid in distinguishing between malignant and benign breast masses. By training a machine learning model on this dataset, it is possible to develop a predictive model that can assist in the early detection and diagnosis of breast cancer.
